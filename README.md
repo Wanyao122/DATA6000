@@ -1,5 +1,6 @@
 # DATA6000
 This is a report on demand forecasting for small and medium-sized enterprises, competitor analysis, and customer churn prediction. 
+
 Data source:
 https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/data
 https://www.kaggle.com/datasets/shivan118/churn-modeling-dataset
